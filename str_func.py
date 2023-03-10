@@ -6,3 +6,5 @@ def string_upper(text):
 def string_title(text):
     """Перевод текста в заглавные буквы"""
   return text.title()
+
+print("Hello")
